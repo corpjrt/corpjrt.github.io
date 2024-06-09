@@ -10,7 +10,7 @@
 }
 @font-face{
   font-family: 'bianzhidai-Brush';
-  src: ("bianzhidai-Brush.otf")
+  src: url("bianzhidai-Brush.otf")
 }
 
 @font-face{
