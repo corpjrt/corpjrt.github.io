@@ -500,9 +500,16 @@ textarea {
 /* Footer */
 #footer .copyright {
   color: #9fa3a6;
-  font-size: 0.9em; }
+  font-size: 0.9em; 
+  }
   #footer .copyright a {
     color: inherit; }
+
+.footer {
+  bottom: 0;
+  position: absolute;
+  left:10px;
+}
 
 /* Menu */
 #menu ul {
